@@ -1,8 +1,8 @@
-package java.ru.test;
+package ru.test;
 
-import java.ru.test.printers.Printer1;
-import java.ru.test.printers.Printer2;
-import java.ru.test.printers.Printer3;
+import ru.test.printers.Printer1;
+import ru.test.printers.Printer2;
+import ru.test.printers.Printer3;
 
 /*
     Задание:
